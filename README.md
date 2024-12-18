@@ -1,7 +1,7 @@
 ***MR. Bill***  
 *******
 
-**WHO WE ARE**
+**WHO ARE WE**
 As Azra Uygul and Fırat Göçmen, we are working on a project that leverages blockchain technology to develop a legal and transparent invoice recording system. Azra, with her background in mathematics, brings an analytical perspective, while Fırat, with his computer engineering expertise, shapes our software development approach. As two dedicated developers, we are working hard to bring this project to life. By utilizing the security and transparency features of blockchain, we ensure that contracts are recorded accurately and securely.
 
 
