@@ -1,3 +1,9 @@
+import Map "mo:base/HashMap";
+import Text "mo:base/Text";
+import Option "mo:base/Option";
+import List "mo:base/List";
+
+
 actor {
     public type Fatura = {
         id: Nat;
